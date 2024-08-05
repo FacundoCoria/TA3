@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ta3</title>
+</head>
+<body>
+<img
+class="picture"
+src="C:\Desarrollo\UT1\TA3\bandera-de-uruguay.jpg"
+alt="La bandera de uruguay"
+/>
+</body>
+</html>
